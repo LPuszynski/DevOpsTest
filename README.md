@@ -1,6 +1,6 @@
 # DevOpsTest
 
 
-# AUTHOR
+## AUTHOR
 
 Loïs Puszynski
